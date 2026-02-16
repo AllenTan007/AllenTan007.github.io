@@ -1,0 +1,23 @@
+{
+  "name": "allentan007-lab",
+  "version": "1.0.0",
+  "description": "Global Tactical Tech & Hardware Research Lab",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "keywords": [
+    "tactical",
+    "hardware",
+    "laser tag",
+    "iot security"
+  ],
+  "author": "AllenTan007",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0",
+    "vue": "^3.0.0"
+  }
+}
